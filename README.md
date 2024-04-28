@@ -5,4 +5,3 @@ Projeto que criei atraves das do canal DevEmDobro. O projeto que consiste em cri
 
 ## 💻 Projeto
 
-Você pode visualizar o projeto através [DESSE LINK](https://devdanias.github.io/projeto-onepiece/)
